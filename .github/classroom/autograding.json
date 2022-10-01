@@ -26,7 +26,7 @@
       "run": "python q1.py",
       "input": "2\r\n2\r\n2\r\n2\r\n2\r\n4\r\n4\r\n4\r\n4\r\n4",
       "output": "1",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
       "points": 2
     },
@@ -36,7 +36,7 @@
       "run": "python q1.py",
       "input": "1\r\n1\r\n1\r\n1\r\n1\r\n3\r\n5\r\n7\r\n9\r\n1",
       "output": "0",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
       "points": 2
     }
